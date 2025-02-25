@@ -10,3 +10,5 @@ The main idea of PatchCore is to extract as much useful features as possible to 
 The dataset will have picture of coffee can, the anomalies are parts which being drawed on by a red marker.
 ![dis7_lux4_res1920x1080_fps8_right_1_ 2](https://github.com/user-attachments/assets/658b8469-59f9-4156-b17c-b13eb097f189)
 
+## Result
+****![image](https://github.com/user-attachments/assets/30ee20e0-5dd6-43c2-9b4c-5f33243dde61)
